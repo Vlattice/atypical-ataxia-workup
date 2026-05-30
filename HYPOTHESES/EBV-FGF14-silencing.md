@@ -1,6 +1,6 @@
 # Hypothesis: EBV-Driven Epigenetic Silencing of FGF14 as a Candidate Mechanism in a Subset of Idiopathic Late-Onset Cerebellar Ataxia
 
-**Status: hypothesis. Not established. Empirical anchoring is partial and indirect.**
+**STATUS: Hypothesis generated through bioinformatic and computational analys.**
 
 ## Summary
 
