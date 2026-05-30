@@ -100,7 +100,7 @@ See `CONTRIBUTING.md`.
 ## Citation
 
 If this resource is useful in your work, please cite the Zenodo DOI
-DOI 10.5281/zenodo.20431333.
+10.5281/zenodo.20431333.
 
 ## Acknowledgments
 
